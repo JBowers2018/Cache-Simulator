@@ -1,3 +1,5 @@
+#Cache Simulator#
+
 This program requires Python 3.8.0 or later. Run on command line.
 
 Usage: main.py –f TestTrace.trc –s 1024 –b 16 –a 2 –r RR
