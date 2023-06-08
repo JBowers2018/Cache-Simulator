@@ -1,0 +1,22 @@
+Cache Simulator CS 3852 Spring 2019 - Group #15
+
+Cmd Line: ['C:/Repos/ComputerArchProj/venv/2019_01_CS3853_Team_XX_M#15/main.py', '-f', 'A-9_new 1.5.pdf.trc', '-s', '512', '-b', '16', '-a', '2', '-r', 'RR']
+
+Trace File:    ./TraceFiles/A-9_new 1.5.pdf.trc
+Generic:
+Cache Size:    512KB
+Block Size:    16Bytes
+Associativity: 2
+R-Policy:      RR
+
+----- Calculated Values -----
+Total #Blocks: 64 KB ( 2^16 )
+Index bits:    14 bits, Total Indices: 16 KB
+Tag Size:      14 bits
+Overhead Memory Size:       61440.0 ( or 59 KB )
+Implementation Memory Size: 585728 ( or 572 KB )
+
+----- Results -----
+Cache Hit Rate: 81.60%
+CPI: 8.48 cycles/instruction
+
